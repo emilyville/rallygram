@@ -1,2 +1,2 @@
 # rallygram
-say it with a lovebomb
+amplify your goodwill
