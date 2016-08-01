@@ -16,9 +16,9 @@ Just yourself to get started. Think of someone you'd like to send goodwill to an
 ##### Step 1: initiator creates rallygram
 create prompt for participants by filling in madlib
 will collect:
-	- title of rallygram
-	- recipients name
-	- occasion
+- title of rallygram
+- recipients name
+- occasion
 
 ##### Step 2: initiator creates participant list
 - input names
