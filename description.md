@@ -7,9 +7,9 @@ Rallygram is an app to amplify and share goodwill for another person. Excited fo
 Just yourself to get started. Think of someone you'd like to send goodwill to and use the app to rally the folks around them to express their appreciations, gratitude, love, advice, or blessings for. You'll just need first names and phone numbers for everyone you'd like to invite to particpate.
 
 ##### User types
-a) the initiator (one person, that's you)
-b) participant (many people that you invite, will include you, the initiator)
-c) recipient (one person that will receive messages from the participants)
+- the initiator (one person, that's you)
+- participant (many people that you invite, will include you, the initiator)
+- recipient (one person that will receive messages from the participants)
 
 #### How does Rallygram work?
 
