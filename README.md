@@ -1,2 +1,2 @@
 # rallygram
-amplify your goodwill
+goodwill amplification
