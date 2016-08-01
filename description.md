@@ -33,13 +33,13 @@ will collect:
 ##### Step 4: RALLY!
 - app texts each particpant with prompt
 - possible responses: 
-	"now"
+	- "now"
 		- app calls recipient and takes recording
-	"stop"
+	- "stop"
 		- app stops and removes participant from rallygram
-	"later"
+	- "later"
 		- try back in an hour
-	no response
+	- no response
 		- try back in an hour
 	... more ...
 
