@@ -1,4 +1,4 @@
-### Rallygram: Who what how why?
+### Rallygram
 
 #### What is Rallygram?
 Rallygram is an app to amplify and share goodwill for another person. Excited for someone to join your team? Someone close to you have a baby? Did someone go out of their way to make the world a better place? Send them a recording with your kind words, and get everyone around them to join in so that you can ambush them with goodwill and nice thoughts. 
